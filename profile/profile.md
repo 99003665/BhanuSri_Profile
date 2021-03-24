@@ -71,7 +71,7 @@ Mysore
 
 ` `C Sharp-
 
-DemoKart - Implementing a program which manages shopping store.
+DemoKart - Implementing a program which manages shopping store
 
 ` `<https://github.com/99003577/DemoKart.git>
 
