@@ -42,18 +42,18 @@ Mysore
 
 **Badges**:
 
-`             `Hackerrank
+             Hackerrank
 ![image](https://user-images.githubusercontent.com/78855795/112326629-aee5ff80-8cda-11eb-8eef-c88b54b4047c.png)
 
 
-`    ![image](https://user-images.githubusercontent.com/78855795/112326736-c6bd8380-8cda-11eb-91e0-b34b95243d5c.png)
+    ![image](https://user-images.githubusercontent.com/78855795/112326736-c6bd8380-8cda-11eb-91e0-b34b95243d5c.png)
 
 
-` `Microsoft:
+Microsoft:
 
-`        `Achievements:
+Achievements:
 
-` `https://docs.microsoft.com/en-us/users/dotnet/collections/yz26f8y64n7k07
+  https://docs.microsoft.com/en-us/users/dotnet/collections/yz26f8y64n7k07
 
 ![image](https://user-images.githubusercontent.com/78855795/112326791-d8069000-8cda-11eb-9c2e-d09827df72ad.png)
 
@@ -68,24 +68,24 @@ Mysore
 
 **Certificates**:
 
-`           `Hackerrank(CSharp)-  <https://www.hackerrank.com/certificates/22ff45dcc03d>
+      Hackerrank(CSharp)-  <https://www.hackerrank.com/certificates/22ff45dcc03d>
 
-`               `![image](https://user-images.githubusercontent.com/78855795/112326954-02584d80-8cdb-11eb-8b4a-836f389a96d1.png)
+    ![image](https://user-images.githubusercontent.com/78855795/112326954-02584d80-8cdb-11eb-8b4a-836f389a96d1.png)
 
 
 **Mini-Projects**:
 
-` `C Sharp-
+C Sharp-
 
 DemoKart - Implementing a program which manages shopping store
 
-` `<https://github.com/99003577/DemoKart.git>
+<https://github.com/99003577/DemoKart.git>
 
-` `SQL- 
+SQL- 
 
 DemoKart DataBase- Managing database of shopping store
 
-` `<https://github.com/99003577/Demokart_DB.git>
+<https://github.com/99003577/Demokart_DB.git>
 
 Embedded Lab Management-  Implementing a program  which manages employee  data .
 
@@ -93,7 +93,7 @@ Embedded Lab Management-  Implementing a program  which manages employee  data .
 
 Declaration:
 
-`                 `I hereby declares , this profile discriminates the Skills, Badges and Certificates which I having.
+      I hereby declares , this profile discriminates the Skills, Badges and Certificates which I having.
 
 
 
