@@ -42,10 +42,11 @@ Mysore
 **Badges**:
 
 `             `Hackerrank
+![image](https://user-images.githubusercontent.com/78855795/112326629-aee5ff80-8cda-11eb-8eef-c88b54b4047c.png)
 
-![](Aspose.Words.7695fb71-f8d0-4272-adf2-f04f92d95d36.001.png)
 
-`     `![](Aspose.Words.7695fb71-f8d0-4272-adf2-f04f92d95d36.002.png)
+`    ![image](https://user-images.githubusercontent.com/78855795/112326736-c6bd8380-8cda-11eb-91e0-b34b95243d5c.png)
+
 
 ` `Microsoft:
 
@@ -53,11 +54,14 @@ Mysore
 
 ` `https://docs.microsoft.com/en-us/users/dotnet/collections/yz26f8y64n7k07
 
-![](Aspose.Words.7695fb71-f8d0-4272-adf2-f04f92d95d36.003.png)
+![image](https://user-images.githubusercontent.com/78855795/112326791-d8069000-8cda-11eb-9c2e-d09827df72ad.png)
 
-![](Aspose.Words.7695fb71-f8d0-4272-adf2-f04f92d95d36.004.png)
 
-![](Aspose.Words.7695fb71-f8d0-4272-adf2-f04f92d95d36.005.png)
+![image](https://user-images.githubusercontent.com/78855795/112326852-e654ac00-8cda-11eb-8821-ddfb688a2830.png)
+
+
+![image](https://user-images.githubusercontent.com/78855795/112326898-f40a3180-8cda-11eb-944c-5ba616e8023b.png)
+
 
 
 
@@ -65,7 +69,8 @@ Mysore
 
 `           `Hackerrank(CSharp)-  <https://www.hackerrank.com/certificates/22ff45dcc03d>
 
-`               `![](Aspose.Words.7695fb71-f8d0-4272-adf2-f04f92d95d36.006.png)
+`               `![image](https://user-images.githubusercontent.com/78855795/112326954-02584d80-8cdb-11eb-8b4a-836f389a96d1.png)
+
 
 **Mini-Projects**:
 
