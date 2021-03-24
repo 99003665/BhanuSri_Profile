@@ -1,9 +1,9 @@
 # Profile
 ﻿Bhanu Sri Madeti
 
-`			                                     `**Email**: <madeti.bhanusri@ltts.com>
+**Email**: <madeti.bhanusri@ltts.com>
 
-`                                                                                             `**Mobile Number**: 8919856575
+**Mobile Number**: 8919856575
 
 
 
